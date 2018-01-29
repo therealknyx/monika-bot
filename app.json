@@ -1,7 +1,7 @@
 {
     "name": "Node.js Monika bot",
     "description": "A Node.js app",
-    "repository": "https://github.com/therealknyx/monika-bot.git",
+    "repository": "https://github.com/therealknyx/monika-bot",
     "logo": "http://node-js-sample.herokuapp.com/node.svg",
     "keywords": ["node", "express", "static"],
     "image": "heroku/nodejs"
